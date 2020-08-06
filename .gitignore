@@ -1,0 +1,13 @@
+*.pdf
+*.cpp
+*.cs
+*.hs
+*.java
+*.js
+*.kt
+*.rb
+*.rs
+*.scala
+*.json
+.vscode
+.DS_Store
